@@ -1,0 +1,1 @@
+Side-channel analysis of the ASCAD database (CHES 2018): SNR leakage mapping + CPA key-recovery on a masked AES implementation. Dataset: ANSSI ASCAD (not included, link in paper). snr section → leakage map; cpa section → correct-key rank. Next: rank-vs-traces curve, comparison with paper Fig.1.
